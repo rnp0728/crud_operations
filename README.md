@@ -1,10 +1,10 @@
 # crud_operations
 
-A new Flutter project.
+Performing CRUD on 3 different databases
+1. Firebase
+2. SqfLite
+3. Hive
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
